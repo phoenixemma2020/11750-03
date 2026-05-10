@@ -3,7 +3,7 @@
 <!--database config-->
 <configs>
   <location>2</location>
-  <path>C:\Users\bambo\OneDrive\Desktop\TRT\1737TRTSystem3.4.0.0\1737TRTSystem3.4.0.0\Database</path>
+  <path>D:\11750-03\1737TRTSystem3.4.0.0\Database</path>
   <filename>1737TRTDatabase.mdb</filename>
   <centerid>1737</centerid>
   <centername>แผนกไตเทียมชั้น 8 E หน่วย 2 โรงพยาบาลหัวเฉียว (บจก. ฟีนิกซ์ไตเทียม)</centername>
